@@ -136,5 +136,3 @@ Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
 
 ---
 
-3️⃣ **LinkedIn project post (recruiter-friendly)**
-4️⃣ **Live mock interview (I ask, you answer)**
